@@ -14,3 +14,6 @@ How to use:
 Download the CsvGraphPlotterV1 folder, and then using CMD navigate to the folder and run the dll with dotnet.
 
 E.g dotnet "userFolders"/CsvGraphPlotterV1/ReadCsvAndPlotGraph.dll
+
+Notes:
+The code is provided in the code folder. The code contains 2 versions which can be changed out in the main function, a gui version as shown in the above image, and a console version using read and write commands in the terminal.
