@@ -15,5 +15,10 @@ Download the CsvGraphPlotterV1 folder, and then using CMD navigate to the folder
 
 E.g dotnet "userFolders"/CsvGraphPlotterV1/ReadCsvAndPlotGraph.dll
 
-Notes:
+
+
+Code:
+
 The code is provided in the code folder. The code contains 2 versions which can be changed out in the main function, a gui version as shown in the above image, and a console version using read and write commands in the terminal.
+In order to implement the GUI in terminal, the terminal was used: https://www.nuget.org/packages/Terminal.Gui
+To plot the graphs, scottplot was used: https://www.nuget.org/packages/scottplot
